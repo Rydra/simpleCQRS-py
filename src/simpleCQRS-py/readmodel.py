@@ -1,0 +1,3 @@
+class BullshitDB:
+    details = {}
+    list = []
